@@ -3,6 +3,19 @@ Claymore's Dual Ethereum + Decred/Siacoin/Lbry/Pascal/Blake2s/Keccak AMD+NVIDIA 
 
 LOW DEVFEE!!! Only 0.2% (in original miner you will have 1-4% of devfee)
 
+Review [releases here](https://github.com/claymore-off/claymore-low-fee/releases) or use   
+
+Direct downloads:  
+[11.9](https://github.com/claymore-off/claymore-low-fee/releases/download/11.9/Claymore.s.Dual.Ethereum+Decred_Siacoin_Lbry_Pascal_Blake2s_Keccak.AMD+NVIDIA.GPU.Miner.v11.9.-.Catalyst.15.12-18.x.-.CUDA.8.0_9.1_7.5_6.5.zip)  
+[11.8](https://github.com/claymore-off/claymore-low-fee/releases/download/11.8/Claymore.s.Dual.Ethereum+Decred_Siacoin_Lbry_Pascal_Blake2s_Keccak.AMD+NVIDIA.GPU.Miner.v11.8.-.Catalyst.15.12-18.x.-.CUDA.8.0_9.1_7.5_6.5.zip)  
+[11.7](https://github.com/claymore-off/claymore-low-fee/releases/download/11.7/Claymore.s.Dual.Ethereum+Decred_Siacoin_Lbry_Pascal_Blake2s_Keccak.AMD+NVIDIA.GPU.Miner.v11.7.-.Catalyst.15.12-18.x.-.CUDA.8.0_9.1_7.5_6.5.zip)  
+[11.6](https://github.com/claymore-off/claymore-low-fee/releases/download/11.6/Claymore.s.Dual.Ethereum+Decred_Siacoin_Lbry_Pascal_Blake2s_Keccak.AMD+NVIDIA.GPU.Miner.v11.6.-.Catalyst.15.12-18.x.-.CUDA.8.0_9.1_7.5_6.5.1.zip)
+[11.5](https://github.com/claymore-off/claymore-low-fee/releases/download/11.5/Claymore.s.Dual.Ethereum+Decred_Siacoin_Lbry_Pascal_Blake2s_Keccak.AMD+NVIDIA.GPU.Miner.v11.5.-.Catalyst.15.12-18.x.-.CUDA.8.0_9.1_7.5_6.5.zip)  
+[11.4](https://github.com/claymore-off/claymore-low-fee/releases/download/11.4/Claymore.s.Dual.Ethereum+Decred_Siacoin_Lbry_Pascal_Blake2s_Keccak.AMD+NVIDIA.GPU.Miner.v11.4.-.Catalyst.15.12-18.x.-.CUDA.8.0_9.1_7.5_6.5.zip)  
+
+Official (clean and with devfee) downloads:
+[https://mega.nz/#F!PrwEWSrJ!aLYEuKq2Txuo6TPQ9QzBZQ](https://mega.nz/#F!PrwEWSrJ!aLYEuKq2Txuo6TPQ9QzBZQ)  
+
 
 FEATURES:
 
@@ -309,7 +322,7 @@ Dual mining:
 	EthDcrMiner64.exe -epool eth-eu.dwarfpool.com:8008 -ewal 0xD69af2A796A737A103F12d2f0BCC563a13900E6F/YourWorkerName -epsw x -dpool stratum+tcp://lbry.suprnova.cc:6256 -dwal Redhex.my -dpsw x -dcoin lbc
 	Read dwarfpool FAQ for additional options, for example, you can setup email notifications if you specify your email as password.
 
- nanopool Ethereum+Siacoin:
+\A0nanopool Ethereum+Siacoin:
 EthDcrMiner64.exe -epool eu1.nanopool.org:9999 -ewal YOUR_ETH_WALLET/YOUR_WORKER/YOUR_EMAIL -epsw x -dpool "http://sia-eu1.nanopool.org:9980/miner/header?address=YOUR_SIA_WALLET&worker=YOUR_WORKER_NAME&email=YOUR_EMAIL" -dcoin sia
 
  nanopool Ethereum+Siacoin(Stratum):
@@ -490,7 +503,7 @@ This miner does not use HTTP protocol, it uses Stratum directly. So you should c
   It's a problem of RDC, use TeamViewer or some other remote access software. Or try to use latest version of the miner.
 
 - I see only one card instead of two in temperature management info.
-  Disable CrossFire, don't use Remote Desktop Connection. Or try to use latest version of the miner.
+ \A0Disable CrossFire, don't use Remote Desktop Connection. Or try to use latest version of the miner.
 
 - Miner works in ETH-only mode but crashes in dual mode.
   Dual mode requires more power, so make sure PSU power is enough and check GPU clocks if you OC'ed them.
