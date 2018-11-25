@@ -9,11 +9,11 @@ Direct downloads:
 [11.9](https://github.com/claymore-off/claymore-low-fee/releases/download/11.9/Claymore.s.Dual.Ethereum+Decred_Siacoin_Lbry_Pascal_Blake2s_Keccak.AMD+NVIDIA.GPU.Miner.v11.9.-.Catalyst.15.12-18.x.-.CUDA.8.0_9.1_7.5_6.5.zip)  
 [11.8](https://github.com/claymore-off/claymore-low-fee/releases/download/11.8/Claymore.s.Dual.Ethereum+Decred_Siacoin_Lbry_Pascal_Blake2s_Keccak.AMD+NVIDIA.GPU.Miner.v11.8.-.Catalyst.15.12-18.x.-.CUDA.8.0_9.1_7.5_6.5.zip)  
 [11.7](https://github.com/claymore-off/claymore-low-fee/releases/download/11.7/Claymore.s.Dual.Ethereum+Decred_Siacoin_Lbry_Pascal_Blake2s_Keccak.AMD+NVIDIA.GPU.Miner.v11.7.-.Catalyst.15.12-18.x.-.CUDA.8.0_9.1_7.5_6.5.zip)  
-[11.6](https://github.com/claymore-off/claymore-low-fee/releases/download/11.6/Claymore.s.Dual.Ethereum+Decred_Siacoin_Lbry_Pascal_Blake2s_Keccak.AMD+NVIDIA.GPU.Miner.v11.6.-.Catalyst.15.12-18.x.-.CUDA.8.0_9.1_7.5_6.5.1.zip)
+[11.6](https://github.com/claymore-off/claymore-low-fee/releases/download/11.6/Claymore.s.Dual.Ethereum+Decred_Siacoin_Lbry_Pascal_Blake2s_Keccak.AMD+NVIDIA.GPU.Miner.v11.6.-.Catalyst.15.12-18.x.-.CUDA.8.0_9.1_7.5_6.5.1.zip)  
 [11.5](https://github.com/claymore-off/claymore-low-fee/releases/download/11.5/Claymore.s.Dual.Ethereum+Decred_Siacoin_Lbry_Pascal_Blake2s_Keccak.AMD+NVIDIA.GPU.Miner.v11.5.-.Catalyst.15.12-18.x.-.CUDA.8.0_9.1_7.5_6.5.zip)  
 [11.4](https://github.com/claymore-off/claymore-low-fee/releases/download/11.4/Claymore.s.Dual.Ethereum+Decred_Siacoin_Lbry_Pascal_Blake2s_Keccak.AMD+NVIDIA.GPU.Miner.v11.4.-.Catalyst.15.12-18.x.-.CUDA.8.0_9.1_7.5_6.5.zip)  
 
-Official (clean and with devfee) downloads:
+Official (clean and with devfee) downloads:  
 [https://mega.nz/#F!PrwEWSrJ!aLYEuKq2Txuo6TPQ9QzBZQ](https://mega.nz/#F!PrwEWSrJ!aLYEuKq2Txuo6TPQ9QzBZQ)  
 
 
@@ -557,3 +557,28 @@ FAQ #2:
 8. Mining on laptops is a bad idea.
 9. You will not see full hashrate on pool immediately, you have to wait for 24 hours at least.
 10. If miner cannot generate DAG file, check environment variables (see Readme), check if your GPU has 3GB memory at least, and check if you have enough virtual memory (pagefile). If all this does not help, try to install more physical RAM.
+
+
+Claymore 11.9
+
+Claymore 11.9 Miner
+
+Claymore 11.9 Ethereum Miner No Fee
+
+Claymore 11.9 No Fee
+
+Claymore No Fee 11.9
+
+Claymore Miner Nvidia Ethereum 11.9
+
+Claymore Miner Ethereum 11.9
+
+Claymore Miner 11.9 Ethereum
+
+Claymore No Fee Miner
+
+DevFee Claymore Remove Remove DevFee Claymore
+
+Free Download Claymore Ethereum Miner 11.9 No Fee
+
+Claymore Ethereum Miner 11.9 NoFee
